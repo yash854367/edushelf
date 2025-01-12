@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\DELL\Downloads\cg-1029-java-training-main (1)\cg-1029-java-training-main\my-api-gateway"/>
+			<item value="C:\Users\DELL\Downloads\cg-1029-java-training-main (1)\cg-1029-java-training-main\customer-service"/>
+			<item value="C:\Users\DELL\Downloads\cg-1029-java-training-main (1)\cg-1029-java-training-main\price-service"/>
+			<item value="C:\Users\DELL\Downloads\cg-1029-java-training-main (1)\cg-1029-java-training-main\product-service"/>
+			<item value="C:\Users\DELL\Downloads\demoo-main\demoo-main\Edushelf-paymentService\src\main\java"/>
+			<item value="C:\Users\DELL\Downloads\cg-1029-java-training-main\cg-1029-java-training-main\customer-service"/>
+			<item value="C:\Users\DELL\Downloads\cg-1029-java-training-main\cg-1029-java-training-main\product-service"/>
+			<item value="C:\Users\DELL\Downloads\cg-1029-java-training-main\cg-1029-java-training-main\price-service"/>
+			<item value="C:\Users\DELL\Downloads\cg-1029-java-training-main\cg-1029-java-training-main\my-api-gateway"/>
+			<item value="C:\Users\DELL\Downloads\demoo-main\demoo-main\Edushelf-paymentService"/>
+			<item value="C:\Users\DELL\Downloads\demoo-main\demoo-main\eureka-server"/>
+			<item value="C:\Users\DELL\Downloads\demoo-main\demoo-main\paymentService2"/>
+			<item value="C:\Users\DELL\Downloads\E-Commerce-Backend-Spring-Microservices-master"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
